@@ -1,0 +1,5 @@
+event_id,process_id,event_action,target_process
+E1,P1,INTERNAL,
+E2,P1,SEND,P2
+E3,P2,RECV,P1
+E4,P3,INTERNAL,
